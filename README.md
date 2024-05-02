@@ -1,7 +1,7 @@
 # Maverick_City_Songs 
 INSTRUCTIONS 
 
-To access and utilize the script, open the file that says "final_project_script. R", in this file you can find the code for my findings. To access the dataset, open the "Statistics Data-sheet(1).csv" file. 
+To access and utilize the script, open the file that says "final_project_script. R", in this file you can find the code for my findings. To access the dataset, open the "Statistics Data-sheet(2).csv" file. 
 
 DATA
 
